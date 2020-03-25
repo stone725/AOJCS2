@@ -242,3 +242,4 @@ ModelManifest.xml
 .fake/
 
 AOJCS2TestConsole/
+*.sln
